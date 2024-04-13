@@ -1,5 +1,13 @@
 # Dynamic-Image-Gallery-JS
 
+#
+
+### <div align="center" target="_blank"> [Acesse aqui](https://landingpage-boot.netlify.app/)
+
+<img src="./img.JPG" align="center" height="400em" width="100%"> 
+</div>
+
+#
 
 O que fazer?
 
